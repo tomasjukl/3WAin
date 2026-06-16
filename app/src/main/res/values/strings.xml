@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">3WAin</string>
+    <string name="title_activity_insight">InsightActivity</string>
 </resources>
